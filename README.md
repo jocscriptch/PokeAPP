@@ -32,6 +32,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 https://poke-app-lilac-seven.vercel.app/
 
 ### Colaboradores
-@Abdias-Urena  @sebasaravi @jocscriptch
+- [@Abdias-Urena](https://www.github.com/Abdias-Urena)
+- [@sebasaravi](https://www.github.com/sebasaravi)
+- [@jocscriptch](https://www.github.com/jocscriptch)
 
 
